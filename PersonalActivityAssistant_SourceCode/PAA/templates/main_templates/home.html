@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+{% block content %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
+<head>
+
+<body>
+<div class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+           
+            <a class="navbar-brand" href="/">Home</a>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+           <li ><a href=/expenses/detail>Expenses</a></li>
+            <li ><a href=/notes/detail>Notes</a></li>
+
+             <li><a href=/appointments/detail>Appointments</a></li>
+               <li><a href="reminders/detail">Reminders</a></li>
+               <li><a href="address/detail">Address</a></li>
+            </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="jumbotron" style="border-radius: 6px">
+        <div class="container" style="padding-left :15px ; text align: justify; text-justify:auto;" >
+            <div class= "jumbotron" style="padding-left :15px ; text align: justify; text-justify:auto; background: " >
+            <div>
+            	<h1> Your Personal Activity Asssistant</h1>
+
+
+            </div>
+            </div></div>
+{% endblock %}

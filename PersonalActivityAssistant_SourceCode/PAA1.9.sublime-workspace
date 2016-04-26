@@ -1,0 +1,644 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"app",
+				"Appointments"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"note",
+				"notes_detail"
+			],
+			[
+				"m",
+				"max_length"
+			],
+			[
+				"de",
+				"deleted"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"e",
+				"edit"
+			],
+			[
+				"E",
+				"ExpensesForm"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"EMA",
+				"EMAIL_HOST"
+			],
+			[
+				"EMAIL",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"S",
+				"SignUpForm"
+			],
+			[
+				"Sign",
+				"SignUpAdmin"
+			],
+			[
+				"v",
+				"vertex"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"vert",
+				"vertices"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"j",
+				"object-fit"
+			],
+			[
+				"int",
+				"inttokenlist"
+			],
+			[
+				"new",
+				"newToken1"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"C",
+				"Computation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PAA/expenses/views.py",
+			"settings":
+			{
+				"buffer_size": 1932,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PAA/templates/registration/activation_complete.html",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PAA/templates/address_templates/add_address.html",
+			"settings":
+			{
+				"buffer_size": 782,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bharat/Desktop/PAA1.9",
+		"/home/bharat/Desktop/PAA1.9/PAA",
+		"/home/bharat/Desktop/PAA1.9/PAA/PAA",
+		"/home/bharat/Desktop/PAA1.9/PAA/address",
+		"/home/bharat/Desktop/PAA1.9/PAA/reminders",
+		"/home/bharat/Desktop/PAA1.9/PAA/signup",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/address_templates",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/registration"
+	],
+	"file_history":
+	[
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/address_templates/edit_address.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/address/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/address_templates/detail_address.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/main_templates/home.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_templates/edit_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/main/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/expenses_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/PAA/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/PAA/settings.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/appointments_templates/appointments_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/address_templates/add_address.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/address_templates/address_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/reminders_templates/reminders_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_templates/notes_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/main/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/signup/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/signup/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/PAA/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/signup/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/reminders_templates/edit_reminders.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/appointments_templates/add_appointments.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/appointments_templates/edit_appointments.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/edit_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_templates/add_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/reminders_templates/add_reminders.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_templates/detail_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/notes/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/reminders/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/reminders/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/reminders_templates/detail_reminders.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/add_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/appointments/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/appointments/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/appointments/models.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/appointments_templates/detail_appointments.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/appointments_templates/edited_view.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/address_templates/edited_view.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/appointments/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/address/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/address/models.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/address/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/reminders/models.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/expenses/models.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/reminders_templates/edited_view.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/reminders/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/notes/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/expenses/views.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/expenses/urls.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/detail_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/expense_delete.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_templates/edited_view.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/edited_view.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes-templates/detail_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes-templates/notes_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes-templates/add_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/notes/models.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/notes/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/expenses/admin.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/notes/admin.py",
+		"/home/bharat/Desktop/PAA1.9/PAA1.9.sublime-project",
+		"/home/bharat/Desktop/PAA1.9/PAA/expenses/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_templates/edited_view_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_templates/index.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/detail_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/detail_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/add_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/edited_view_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/edit_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/edited_notes.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/notes_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/add_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/PAA/admin.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/notes/migrations/forms.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/edit_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/edited_view.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/home.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/expenses_header.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/expenses/tests.py",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/list_expenses.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/templates/index.html",
+		"/home/bharat/Desktop/PAA1.9/PAA/template/home.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/expenses/login.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/expenses/home.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/expenses/showExpenses.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/expenses/addExpenses.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/includes/snippet.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/expenses/dash.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/templates/expenses/header.html",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/PersonalActivityAssistant/settings.py",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/PersonalActivityAssistant/urls.py",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/views.py",
+		"/home/bharat/Desktop/OOAD_Django/PersonalActivityAssistant/Expenses/urls.py",
+		"/home/bharat/Desktop/BookmarkingApplication/login.php",
+		"/home/bharat/Desktop/BookmarkingApplication/dashboardheader.php",
+		"/home/bharat/Desktop/FinalProject/addBookmarks.php",
+		"/home/bharat/Desktop/FinalProject/FinalProject-lib.php",
+		"/home/bharat/Desktop/Snake.html",
+		"/home/bharat/Desktop/FinalProject/head.php",
+		"/home/bharat/Desktop/FinalProject/dashboardheader.php",
+		"/home/bharat/Desktop/FinalProject/login.php",
+		"/home/bharat/Desktop/FinalProject/show.php",
+		"/home/bharat/Desktop/FinalProject/add.php",
+		"/home/bharat/Desktop/FinalProject/addBookmarks.html",
+		"/home/bharat/Desktop/FinalProject/index.php",
+		"/home/bharat/Desktop/FinalProject/1",
+		"/home/bharat/Desktop/untitled.html",
+		"/home/bharat/Desktop/trydjango18/src/templates/home.html",
+		"/home/bharat/Desktop/trydjango18/src/trydjango18/urls.py",
+		"/home/bharat/Desktop/trydjango18/src/trydjango18/settings.py",
+		"/home/bharat/Desktop/trydjango18/src/templates/forms.html",
+		"/home/bharat/Desktop/trydjango18/src/expensecalculator/views.py",
+		"/home/bharat/Desktop/trydjango18/src/expensecalculator/models.py",
+		"/home/bharat/Desktop/trydjango18/src/expensecalculator/forms.py",
+		"/home/bharat/Desktop/trydjango18/src/expensecalculator/admin.py",
+		"/home/bharat/Desktop/trydjango18/src/expensecalculator/templates/home.html",
+		"/home/bharat/package.json",
+		"/home/bharat/Desktop/JSAng/Angular_HTML.html",
+		"/home/bharat/Desktop/JSAng/app1.js",
+		"/home/bharat/Documents/Programs/node-v4.4.0-linux-x64/bin/npm",
+		"/home/bharat/Documents/Programs/node-v4.4.0-linux-x64/lib/node_modules/npm/bin/npm",
+		"/home/bharat/Desktop/hw7/add.php",
+		"/home/bharat/Desktop/ProgrammingPractice/DataStructures/bfs.txt",
+		"/home/bharat/Desktop/hw7/hw7-lib.php",
+		"/home/bharat/Desktop/hw6/index.php",
+		"/home/bharat/Desktop/hw6/hw6-lib.php",
+		"/home/bharat/Desktop/hw6/add.php",
+		"/var/www/html/PAA/index.php",
+		"/var/www/html/MarkIt_Application/index.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NAME",
+			"Address",
+			"address",
+			"Address",
+			"address",
+			"name",
+			"address",
+			"reminders",
+			"title",
+			"tit",
+			"reminders",
+			"notes",
+			"\" ",
+			"self.",
+			"{{ obj.title }}",
+			"expense",
+			"expenses",
+			"notes",
+			"expenses",
+			"<h1>{{ instance}}</h1>",
+			"Expenses",
+			"expenses",
+			"Expenses",
+			"expenses",
+			"Expenses",
+			" expenses",
+			" ",
+			">  ",
+			">\n",
+			"container",
+			"row-",
+			"row-fluid",
+			";\n",
+			"jumbotron",
+			".label dan",
+			"label label-default",
+			"label",
+			">\n",
+			"center",
+			"><</",
+			"center",
+			"\"></",
+			"form-group",
+			"form",
+			"><",
+			"[]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"appointments",
+			"address",
+			"reminders",
+			"notes",
+			"Notes",
+			"notes",
+			"Notes",
+			"notes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PAA/expenses/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PAA/templates/registration/activation_complete.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "PAA/templates/address_templates/add_address.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PAA1.9.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
